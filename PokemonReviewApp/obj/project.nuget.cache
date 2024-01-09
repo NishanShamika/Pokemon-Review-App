@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "D6rswNG/6+z9zlURSu3Yi6lGCV1uwzxdjykfa/UKEfoe3CvnngdxntmraiTBUhZ4xHwqXllJdN5fBGEsIHW3FQ==",
+  "success": true,
+  "projectFilePath": "E:\\myProjects\\dotnet\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nishs\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\nishs\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\nishs\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\nishs\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\nishs\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\nishs\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
